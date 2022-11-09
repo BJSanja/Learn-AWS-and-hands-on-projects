@@ -1,1 +1,1 @@
-# Learn-AWS-and-hands-on-projects
+# Learn AWS and hands-on projects
